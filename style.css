@@ -1,3 +1,14 @@
 body {
-  background: #f5f5f5;
+  background: #999;
+  font-family: "sans-serif";
+  font-size: 16px;
+}
+nav {
+  background: #966;
+}
+header {
+  background: #696;
+}
+footer {
+  background: #669;
 }
