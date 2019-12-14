@@ -6,9 +6,16 @@ body {
 nav {
   background: #966;
 }
+nav a:hover {
+  background: #900;
+}
 header {
   background: #696;
 }
 footer {
   background: #669;
+}
+img.profile {
+  width: 256px;
+  height: 256px;
 }
