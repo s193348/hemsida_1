@@ -2,7 +2,7 @@
 # Testa att ta bort den här raden Johanna.
 
 # Hemsida för skolarbete.
-En hemsida för skolarbete. Html och css.
+En hemsida för skolarbete. Html och css. OBS! Glöm inte att ta göra en lokal kopia. Viktigt med en egen lokal backup.
 
 # Att göra
 * Färgschema.
