@@ -1,5 +1,5 @@
-# hemsida_1
-Hemsida för skolarbete.
+# Hemsida för skolarbete.
+En hemsida för skolarbete. Html och css.
 
 # Information från skolan
 Validatorer
