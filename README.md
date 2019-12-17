@@ -1,6 +1,11 @@
 # Hemsida för skolarbete.
 En hemsida för skolarbete. Html och css.
 
+# Att göra
+*Färgschema.
+*Medlemssidor.
+*Bild på första sidan.
+
 # Information från skolan
 Validatorer
 
