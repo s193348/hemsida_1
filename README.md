@@ -8,6 +8,25 @@ En hemsida för skolarbete. Html och css. OBS! Glöm inte att ta göra en lokal 
 * Medlemssidor.
 * Bild på första sidan.
 
+# Checklista krav för uppgifter
+ok (startsida) [index.html]
+ok respektive gruppmedlems landningssida  - tre stycken
+ok css-fil [style.css] - som styr utseendet för hela webbplatsen i alla medföljande HTML-sidor
+* en fungerande global navigation
+* minst en bild
+* minst fem semantiskt strukturerande element som [header, footer, aside, section, article, osv.]
+* gruppmedlemmarnas landningssidor med fungerande global navigering
+* korrekt fil/mappstruktur så att länkningarna fungerar
+* Webbplatsen ska följa standarden/rekommendationen för HTML 5 och alla gemensamma HTML-filer ska vara valida enligt W3C:s validator för HTML-kod. Om ni anser att ett felmeddelande är orimligt, ska ni kommentera felet i koden samt motivera varför det inte behöver åtgärdas med hänsvisning till lämpliga källor. Okommenterade fel eller svagt motiverade fel innebär att inlämningen underkänns.
+* Alla gemensamma HTML-filer ska uppfylla WCAG2 level AA, utan varningar från AChecker. (Följande problemtyper kan ni bortse från: ”Likely Problems” och ”Potential Problems”)
+* Innehållet i den gemensamma HTML-filen skall märkas upp med beaktande av strukturen och semantiken i HTML, alltså med hänsyn till vilket innehåll de olika elementen ska användas för.  Exempelvis ska elementen h1, h2 och h3 användas för respektive rubriknivå, elementet blockquote ska enbart användas för just blockcitat och så vidare.
+* Element som markeras som ”Deprecated” i specifikationen av HTML 5 skall inte användas.
+* Använda den style som finns i relaterad CSS-fil på ett korrekt sätt (undvik redundans i koden).
+* Alla gemensamma CSS-filer ska vara valida enligt W3C:s validator för CSS-kod för CSS3. Om ni anser att ett felmeddelande är orimligt, ska ni kommentera felet i koden samt motivera varför det inte behöver åtgärdas med hänsvisning till lämpliga källor.  Okommenterade fel eller svagt motiverade fel innebär att inlämningen underkänns.
+* CSS-regler ska sparas i en separat CSS-fil och länkas från HTML-dokumenten med en relativ länk.
+* All formgivning skall styras med hjälp av CSS och inte genom att modifiera HTML-koden. Exempelvis skall en följd av radbrytningar ( <br/> <br/> <br/> <br/>) inte användas för att åstadkomma större utrymme mellan två stycken, eftersom samma effekt kan uppnås genom att precisera margin med CSS.
+* Använda id och class på ett korrekt sätt försök undvika redundans. 
+
 # Information från skolan
 Validatorer
 
