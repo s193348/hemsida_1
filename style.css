@@ -1,20 +1,18 @@
 body {
-  background: #181a1b;
-  color: #d8d6d0;
   font-family: "sans-serif";
   font-size: 16px;
 }
 a:link {
-  color: #4dacfd;
+  color: #000;
 }
 a:visited {
-  color: #4dacfd;
+  color: #000;
 }
 a:hover {
-  color: #4dacfd;
+  color: #555;
 }
 a:active {
-  color: #4dacfd;
+  color: #555;
 }
 nav {
   font-size: 20px;
@@ -22,8 +20,6 @@ nav {
 nav ul {
   list-style-type: none;
   overflow: hidden;
-  background: #333;
-  border: 1px solid #444;
   padding: 0.1em;
 }
 nav li {
@@ -37,23 +33,20 @@ nav li a {
   text-decoration: none;
 }
 nav li a:link {
-  color: #ccc;
+  color: #000;
 }
 nav li a:visited {
-  color: #ccc;
+  color:  #000;
 }
 nav li a:hover {
-  background: #667;
-  color: #ccc;
+  color: #555;
 }
 nav li a:active {
-  color: #ccc;
-}
-header {
-  background: #696;
+  color: #555;
 }
 footer {
-  background: #669;
+  background: #707575;
+  color: #fff;
 }
 img.profile {
   width: 256px;
