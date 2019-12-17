@@ -6,7 +6,6 @@ En hemsida för skolarbete. Html och css. OBS! Glöm inte att ta göra en lokal 
 # Att göra
 * Färgschema.
 * Medlemssidor.
-* Bild på första sidan.
 
 # Checklista krav för uppgifter
 ok (startsida) [index.html]
@@ -15,9 +14,12 @@ ok respektive gruppmedlems landningssida  - tre stycken
 
 ok css-fil [style.css] - som styr utseendet för hela webbplatsen i alla medföljande HTML-sidor
 
-* en fungerande global navigation
-* minst en bild
-* minst fem semantiskt strukturerande element som [header, footer, aside, section, article, osv.]
+ok  minst en bild
+
+ok en fungerande global navigation
+
+ok minst fem semantiskt strukturerande element som [header, footer, aside, section, article, osv.] vi har header, footer, article, nav, main
+
 * gruppmedlemmarnas landningssidor med fungerande global navigering
   * medlem 1
   
