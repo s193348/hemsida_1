@@ -3,15 +3,17 @@
 # Hemsida för skolarbete.
 En hemsida för skolarbete. Html och css. OBS! Glöm inte att ta göra en lokal kopia. Viktigt med en egen lokal backup.
 
-# Att göra
-* Färgschema.
-* Medlemssidor.
+# Att göra innan presentation på Fredag?
+* Uppdatera färgschema.
+* Uppdatera alla undersidor?
+* Uppdatera footer.
+* Uppdatera till vettigare text i index.html.
 
 # Checklista krav för uppgifter
 * ok. (startsida) [index.html]
 * ok. respektive gruppmedlems landningssida  - tre stycken
 * ok. css-fil [style.css] - som styr utseendet för hela webbplatsen i alla medföljande HTML-sidor
-* ok.  minst en bild
+* ok. minst en bild
 * ok. en fungerande global navigation
 * ok. minst fem semantiskt strukturerande element som [header, footer, aside, section, article, osv.] vi har header, footer, article, nav, main
 * gruppmedlemmarnas landningssidor med fungerande global navigering
