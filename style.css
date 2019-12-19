@@ -1,6 +1,6 @@
 body {
   font-family: "sans-serif";
-  font-size: 16px;
+  font-size: 1em;
   text-align: center;
 }
 a:link {
@@ -16,7 +16,7 @@ a:active {
   color: #555;
 }
 nav {
-  font-size: 20px;
+  font-size: large;
 }
 nav ul {
   list-style-type: none;
