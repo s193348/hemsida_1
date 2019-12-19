@@ -8,24 +8,16 @@ En hemsida för skolarbete. Html och css. OBS! Glöm inte att ta göra en lokal 
 * Medlemssidor.
 
 # Checklista krav för uppgifter
-ok (startsida) [index.html]
-
-ok respektive gruppmedlems landningssida  - tre stycken
-
-ok css-fil [style.css] - som styr utseendet för hela webbplatsen i alla medföljande HTML-sidor
-
-ok  minst en bild
-
-ok en fungerande global navigation
-
-ok minst fem semantiskt strukturerande element som [header, footer, aside, section, article, osv.] vi har header, footer, article, nav, main
-
+* ok. (startsida) [index.html]
+* ok. respektive gruppmedlems landningssida  - tre stycken
+* ok. css-fil [style.css] - som styr utseendet för hela webbplatsen i alla medföljande HTML-sidor
+* ok.  minst en bild
+* ok. en fungerande global navigation
+* ok. minst fem semantiskt strukturerande element som [header, footer, aside, section, article, osv.] vi har header, footer, article, nav, main
 * gruppmedlemmarnas landningssidor med fungerande global navigering
-  * medlem 1
-  
-  ok medlem 2
-  
-  * medlem 3
+  * Andersson.  
+  * Lindmark.
+  * ok. Månsson.
 * korrekt fil/mappstruktur så att länkningarna fungerar
 * Webbplatsen ska följa standarden/rekommendationen för HTML 5 och alla gemensamma HTML-filer ska vara valida enligt W3C:s validator för HTML-kod. Om ni anser att ett felmeddelande är orimligt, ska ni kommentera felet i koden samt motivera varför det inte behöver åtgärdas med hänsvisning till lämpliga källor. Okommenterade fel eller svagt motiverade fel innebär att inlämningen underkänns.
 * Alla gemensamma HTML-filer ska uppfylla WCAG2 level AA, utan varningar från AChecker. (Följande problemtyper kan ni bortse från: ”Likely Problems” och ”Potential Problems”)
