@@ -16,7 +16,7 @@ a:active {
   color: #555;
 }
 nav {
-  font-size: 15px;
+  font-size: larger;
 }
 nav ul {
   font-family: Verdana;
@@ -52,7 +52,7 @@ nav li a:active {
 }
 footer {
   font-family: Verdana;
-  font-size: 12px;
+  font-size: smaller;
   padding: 0.5px;
   border: 1px solid #d9d9d9;
   background-image: linear-gradient(#f2f2f2,#d9d9d9);
@@ -73,7 +73,7 @@ ul {
 }
 
 #hemknapp {
- font-size: 20px;
+ font-size: larger;
 }
 
 article {
