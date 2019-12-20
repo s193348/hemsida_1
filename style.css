@@ -1,5 +1,5 @@
 body {
-  font-family: "sans-serif";
+  font-family: sans-serif;
   font-size: 1em;
   text-align: center;
 }
@@ -16,13 +16,17 @@ a:active {
   color: #555;
 }
 nav {
-  font-size: large;
+  font-size: 15px;
 }
 nav ul {
+  font-family: Verdana;
+  width: 97%;
+  background-image: linear-gradient(#f2f2f2,#d9d9d9);
   list-style-type: none;
   overflow: hidden;
-  padding: 0.1em;
+  padding: 0.5em;
   display: inline-block;
+  border: 1px solid #d9d9d9;
 }
 nav li {
   float: left;
@@ -47,17 +51,31 @@ nav li a:active {
   color: #555;
 }
 footer {
-  background: #707575;
-  color: #fff;
+  font-family: Verdana;
+  font-size: 12px;
+  padding: 0.5px;
+  border: 1px solid #d9d9d9;
+  background-image: linear-gradient(#f2f2f2,#d9d9d9);
+  color: black;
 }
+
 img.profile {
   width: 256px;
   height: 256px;
 }
 main {
-	max-width: 600px;
+max-width: 600px;
   margin: 0 auto;
 }
 ul {
   text-align: left;
+  border: ;
+}
+
+#hemknapp {
+ font-size: 20px;
+}
+
+article {
+ background: ;
 }
