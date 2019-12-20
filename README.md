@@ -1,12 +1,6 @@
 # Hemsida för skolarbete.
 En hemsida för skolarbete. Html och css. OBS! Glöm inte att ta göra en lokal kopia. Viktigt med en egen lokal backup.
 
-# Att göra innan presentation på Fredag?
-* Uppdatera färgschema.
-* Uppdatera alla undersidor?
-* Uppdatera footer.
-* Uppdatera till vettigare text i index.html.
-
 # Checklista krav för uppgifter
 * ok. (startsida) [index.html]
 * ok. respektive gruppmedlems landningssida  - tre stycken
