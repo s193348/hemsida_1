@@ -3,6 +3,7 @@ En hemsida för skolarbete. Html och css. OBS! Glöm inte att ta göra en lokal 
 
 # Checklista krav för uppgifter
 * ok. [index.html] hos https://validator.w3.org/ .
+* ok. [style.css] hos https://jigsaw.w3.org/css-validator/#validate_by_upload+with_options .
 * ok. (startsida) [index.html]
 * ok. respektive gruppmedlems landningssida  - tre stycken
 * ok. css-fil [style.css] - som styr utseendet för hela webbplatsen i alla medföljande HTML-sidor
