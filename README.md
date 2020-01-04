@@ -2,7 +2,7 @@
 En hemsida för skolarbete. Html och css. OBS! Glöm inte att ta göra en lokal kopia. Viktigt med en egen lokal backup.
 
 # Checklista krav för uppgifter
-* 20120104. index.html ok hos https://validator.w3.org/ .
+* 20120104. [index.html] ok hos https://validator.w3.org/ .
 * ok. (startsida) [index.html]
 * ok. respektive gruppmedlems landningssida  - tre stycken
 * ok. css-fil [style.css] - som styr utseendet för hela webbplatsen i alla medföljande HTML-sidor
