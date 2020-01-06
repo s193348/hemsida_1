@@ -3,7 +3,7 @@ En hemsida för skolarbete. Html och css. OBS! Glöm inte att ta göra en lokal 
 
 # Att göra innan inlämning.
 * Johanna länkar till icke lokala källor.
-* Ska H1 utanför <main> vara samma på alla sidor?
+* Ska <h1> utanför <main> vara samma på alla sidor?
 * Ska <title> vara samma på alla sidor och följa brödsmulor metoden?
 * Hitta inlämningslänken på skolans sida.
 * Zippa filer och lämna in tillsammans med länk till github pages.
