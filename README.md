@@ -5,8 +5,8 @@ En hemsida för skolarbete. Html och css. OBS! Glöm inte att ta göra en lokal 
 * Johanna länkar till icke lokala källor.
 * Ska h1 utanför main vara samma på alla sidor?
 * Ska title vara samma på alla sidor och följa brödsmulor metoden?
-* Hitta inlämningslänken på skolans sida.
-* Zippa filer och lämna in tillsammans med länk till github pages.
+* Zippa filer och tillsammans med länk till github pages.
+* Ladda in på skolans projekt sida.
 
 # Checklista krav för uppgifter
 * ok. [index.html] hos https://validator.w3.org/ .
